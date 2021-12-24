@@ -34,4 +34,4 @@ Syntax:
 
 ### Repo owner
 
-[alex carvalho][mailto:alex.carvalho.data@gmail.com]
+[alex carvalho](mailto:alex.carvalho.data@gmail.com)
